@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7491058a.css",
+    "main.js": "/static/js/main.38182b10.js",
+    "static/media/SEGOEUI.TTF": "/static/media/SEGOEUI.904177516a6c6c681d51.TTF",
+    "static/media/Caveat-Regular.ttf": "/static/media/Caveat-Regular.76167cc679e8138706a2.ttf",
+    "static/media/SourceSansPro-Regular.ttf": "/static/media/SourceSansPro-Regular.efa76f8326aa5cee3bdd.ttf",
+    "static/media/SourceSansPro-Light.ttf": "/static/media/SourceSansPro-Light.201a905099bde5cc4079.ttf",
+    "static/media/SourceSansPro-SemiBold.ttf": "/static/media/SourceSansPro-SemiBold.43cc81b496222dc9ce3c.ttf",
+    "static/media/SourceSansPro-Bold.ttf": "/static/media/SourceSansPro-Bold.12e6acd2589d00c9d0aa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Adelle_Reg.woff": "/static/media/Adelle_Reg.7620631867908372703f.woff",
+    "static/media/SecularOne-Regular.ttf": "/static/media/SecularOne-Regular.3786d92fa7ccb28a095f.ttf",
+    "static/media/details.svg": "/static/media/details.8ba99a69bbd3681b6dc2bfd0e93a8cde.svg",
+    "static/media/Spinner624.svg": "/static/media/Spinner624.f7239f5476f6b2deb3f522e45f312d56.svg",
+    "index.html": "/index.html",
+    "main.7491058a.css.map": "/static/css/main.7491058a.css.map",
+    "main.38182b10.js.map": "/static/js/main.38182b10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7491058a.css",
+    "static/js/main.38182b10.js"
+  ]
+}
